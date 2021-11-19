@@ -1,6 +1,6 @@
 # CIC260 - Tarefa05: Perceptron
 
-Tarefa 04 da disciplina CIC260 (Inteligência Artificial) - UNIFEI
+Tarefa 05 da disciplina CIC260 (Inteligência Artificial) - UNIFEI
 
 Autor: Tales Francisco Oliveira da Silva
 
